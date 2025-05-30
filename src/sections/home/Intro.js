@@ -30,16 +30,16 @@ function Intro() {
                     Software Engineer
                   </Typography>
                 </Stack>
-                <Stack direction={'row'} spacing={1}>
+                {/* <Stack direction={'row'} spacing={1}>
                   <Home style={{ width: '18px', height: '18px', marginRight: MarginXSmall, color: iconColor }} />
                   <Typography variant="body2">
                     Boyacá, Colombia 🇨🇴
                   </Typography>
-                </Stack>
+                </Stack> */}
                 <Stack direction={'row'} spacing={1}>
                   <LocationOn style={{ width: '18px', height: '18px', marginRight: MarginXSmall, color: iconColor }} />
                   <Typography variant="body2">
-                    Bangkok, Thailand 🇹🇭
+                    Boyacá, Colombia 🇨🇴
                   </Typography>
                 </Stack>
                 <Stack direction={'row'} spacing={1}>
