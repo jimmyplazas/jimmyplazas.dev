@@ -1,5 +1,29 @@
 [
   {
+    "iconSrc": "./assets/apps/nexo.svg",
+    "title": "Nexo - Chat App",
+    "time": "",
+    "description": "A Kotlin Multiplatform real-time chat app built with Compose, featuring offline-first architecture and WebSocket-based messaging.",
+    "technologies": "Kotlin · KMP · Android · Clean Architecture · Modularization",
+    "url": "https://github.com/jimmyplazas/Nexo",
+    "webUrl": "",
+    "gitHubUrl": "https://github.com/jimmyplazas/Nexo",
+    "playStoreUrl": "",
+    "showInHome": true
+  },
+  {
+    "iconSrc": "./assets/apps/habits.svg",
+    "title": "Habixs",
+    "time": "",
+    "description": "A modern habit-tracking Android application built with Jetpack Compose and MVVM. Focused on clean architecture, state management, and scalable UI patterns.",
+    "technologies": "Kotlin · Jetpack Compose · MVVM · Coroutines · Room · Material 3",
+    "url": "https://github.com/jimmyplazas/Habix",
+    "webUrl": "",
+    "gitHubUrl": "https://github.com/jimmyplazas/Habix",
+    "playStoreUrl": "",
+    "showInHome": true
+  },
+  {
     "iconSrc": "./assets/apps/colombia_holidays.webp",
     "title": "Festivos Colombia 2025",
     "time": "",
@@ -69,7 +93,7 @@
     "webUrl": "",
     "gitHubUrl": "https://github.com/jimmyplazas/Noticas",
     "playStoreUrl": "",
-    "showInHome": true
+    "showInHome": false
   },
   {
     "iconSrc": "./assets/apps/bmi.webp",
@@ -81,7 +105,7 @@
     "webUrl": "",
     "gitHubUrl": "https://github.com/jimmyplazas/iOS-IMC",
     "playStoreUrl": "",
-    "showInHome": true
+    "showInHome": false
   },
   {
     "iconSrc": "./assets/apps/compose_calendar.svg",
@@ -141,7 +165,7 @@
     "webUrl": "https://shopneutral.com.au/",
     "gitHubUrl": "",
     "playStoreUrl": "",
-    "showInHome": true
+    "showInHome": false
   },
   {
     "iconSrc": "./assets/apps/boyaca_dev.svg",
