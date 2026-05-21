@@ -15,7 +15,6 @@ import {
   useTheme,
   Avatar
 } from '@mui/material';
-import PersonIcon from '@mui/icons-material/Person';
 import WifiIcon from '@mui/icons-material/Wifi';
 import BatteryFullIcon from '@mui/icons-material/BatteryFull';
 import DarkMode from '@mui/icons-material/DarkMode';
